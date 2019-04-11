@@ -1,6 +1,6 @@
 // Created by Abhijeet Kumar
 
-alert("This is work in progress. Until tonight I will add more characters and more cool content! Check this code later!  Upvote if you are an fan Game Of Thrones!")
+
 
 
 function advice(){
